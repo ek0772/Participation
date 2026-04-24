@@ -1,0 +1,15 @@
+Week 5, unit 6
+
+"Scenarios in the real world where you've run in to multiple conditions that need to be met:"
+When I was graduating highschool, I could only recieve my diploma if I had satisfied
+ multiple credit requirements. I believe at the time I graduated (They have since 
+ changed it) I needed 4 english credits, 3 social studies credits, 0.5 US government 
+ credits, 3 science credits, 2 language credits, 4 math credits, and a couple other 
+ credits that I cannot remember. But once all of those credit conditions had been 
+ satisfied, I was eligible for graduation. Each credit took two semesters, and I 
+ took a lot of courses that were not required, but the main conditions were those 
+ core credits. If I were to write it as a line of code, I'd likely write 
+ "If (english_cred >= 4) and (science_cred >= 3) and (gov_cred >=0.5) and (lang_cred >= 2) and (math_cred >=4) and (social_cred >= 3)
+ grad_eligible = True
+
+ That should set the grad_eligible variable to true, if the credits meet or exceed the conditional requirements.

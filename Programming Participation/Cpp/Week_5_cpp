@@ -1,0 +1,16 @@
+Explain top down design: 
+Top-down design is a programming concept that involves breaking a program into 
+smaller parts, using functions. It is particularly helpful when writing a program
+ that needs to do multiple things, such as validate input, that build off of each 
+ other. For example, if I went to subway to get a footlong sub, and wanted to 
+ explain the process to a friend who didn't understand how ordering a sub worked, 
+ I wouldn't just dump all of the information and steps into one run on sentence. 
+ Using the different steps of sub creation, such as bread selection, decision to 
+ heat, meat selection, topping selection, and sauce selection, I'd describe each part
+ as its own function, and break the explanation into smaller parts, so that the 
+ listener can better understand how each part works and functions as a part of the
+ whole. This isn't necessarily needed in every program, and for simpler programs, 
+ such specific segmentation might actually overcomplicate things, but for example our
+ assignment this week, breaking down the functions of a multiplication table 
+ program, makes it much easier to understand and tweak any errors or issues in the 
+ parts of the program.

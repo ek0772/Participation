@@ -1,0 +1,10 @@
+For this week’s Participation Activity, submit a single
+paragraph answer to why it is important in class design to
+consider private versus public access modifiers, and how it
+can affect future code maintenance or misuse? You may use
+examples like a class that models a bank account or student
+record.
+
+
+In a theoretical bank simulation, the actual account details would be private classes to prevent unintended access, which would make it need special modifiers, wheras public classes can be edited and impacted and modified all willy nilly. A private method within a class could contain the actual balance, which would protect it, for the public modifiers within classes like withdraw and deposit to modify it.
+

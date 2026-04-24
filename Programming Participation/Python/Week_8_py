@@ -1,0 +1,8 @@
+Participation unit 9:
+model somthing that was not described in class
+
+def class box()
+cube_dimension=(10,10,10)
+    cube_sides=6
+    cube_lenth=3
+    cube_surface_area=cube_length*cube_length*cube_sides

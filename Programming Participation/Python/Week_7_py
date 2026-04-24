@@ -1,0 +1,19 @@
+Write a paragraph about functions assisting top down design
+Functions and proper, efficient design of them can be incredibly helpful to a programmer aiming to break their program down into smaller parts. Using functions to execute different parts of the program and then calling the functions helps to organize code into sections. 
+
+For example, a simple calculator program could be divided into functions that will to gather input, perform the 
+calculation, and give the output. it would look something like the following
+
+[(function 1)
+gather input]
+[(function 2)
+do calculation]
+[(function 3)
+output]
+[call function 1]
+[call function 2]
+[call function 3]
+
+The pseudocode here would outline the use of functions to break down the program, instead of all of the code being contained within main.
+ Not only does this approach help with readability, but it also helps organize code in ways that are so much cleaner than a 50 line mess 
+ of functionless code. It also helps for repetition, as functions can be called many times, instead of the code being rewritten in line every time.

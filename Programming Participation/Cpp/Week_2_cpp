@@ -1,0 +1,16 @@
+Random Number generation is covered in zyBooks 2.18. In your
+own words, explain the effect of passing the result of the time
+function as an argument to srand(). Why is this commonly done in
+programs that use random number generation?
+• Be specific, and if you’d like, you may include a short code example to
+support your explanation.
+
+Srand is used to set the seed for the random number genrator, 
+to increase the "randomness" of the number generated. For example, 
+assuming the programmer imported the proper time #include, one could
+set up the srand() to include a random generator based on the time, 
+which would constantly shift, and avoid having the same seed. If the seed
+is the same for each generation, programmers run the risk of ruining the user
+experience of using the random number, which could accidentally rig something
+like a coin toss. Since the random number generates based on the seed, if the seed 
+is the same, the random output will be the same.

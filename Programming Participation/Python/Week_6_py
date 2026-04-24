@@ -1,0 +1,13 @@
+Week 6 (unit 7)
+Describe a dictionary to someone who has never seen a line of code in their life:
+
+""" Dictionaries are programming tools to create relationships between different points of data.
+ In python, dictionaries are created using curly braces {}, and contain sets of data pairs that 
+ are seperated by a colon (:), these pairs can be called using their key value, which is the first 
+ value in the pair, and there can be multiple key values in a dictionary. Conceptually, they are 
+ similar to lists in that they help to organize data, but their use, limitations, and syntax are 
+ different from typical python lists. They are easier to access in my opinion, because they require 
+ a keyword to access the data, rather than just the datas numerical position in a list, whihc can be 
+ very helpful for accessing dictionary data when the user cannot remember its specific numerical position. 
+ While lists are faster due to their index based format, the memory of keywords is faster for people who 
+ dont desire to learn and memorize their datas position in a list. """

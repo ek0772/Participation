@@ -1,0 +1,16 @@
+Explain loops:
+
+Loops. Perhaps the loopiest programming concept I have come across so far (haha), 
+these are programming functions that make an action repeat itself. They are highly 
+customizable, so a programmer could make a loop repeat a set number of times, or 
+create an expression that has to be true in order for the loop to execute. Or have
+ the loop repeat a certain number of times depending on a number the user inputs. 
+ Think of how someone may need to repeat an action in the real world a certain number
+of times, such as sweeping the floor ___ number of times in order to clean up a 
+mess. Programming loops are a digitized version of this repetition, and just like
+how different messes require different amounts of sweeping, different programming
+tasks may require a statement to repeat a certain number of times. They can be 
+dangerous though, because like with a broom, if you use it recklessly, it might 
+break, as will the code of a programmer who uses an incorrect loop. All sorts of
+chaos could arise, from the programming getting stuck when a loop doesn't repeat enough,
+ or to a program spiraling out of control if an infinite loop is incorrectly used.

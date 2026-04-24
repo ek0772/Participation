@@ -1,0 +1,11 @@
+Unit 11 participation:
+Pasted from week 10 prompt, as questions are identical to participation prompt
+
+Testing code not only helps programmers iterate versions based on what works and what doesnt work,
+ but it also helps the programmer to experience what the user would experience,which can be very usefil in helping them to identify
+and reduce redundancies that may or may not arise during the use of the program, which they might otherwise ignore if they hadnt tested
+ it themself. In my code in particular,
+I test often when I'm writing code, which helps me to be more thoughtful, and catch errors as I right them,
+ rather than having to retroactively go back at the end of the writing and find and debug every little issue
+ with the program. It helps me to catch errors before they pile up, and makes debugging a smooth, simple process 
+ where I can just fix the bugs one at a time instead of dealing with an infestation at the end of the writing.

@@ -1,0 +1,29 @@
+Week 8:
+/**
+ * Week 8 Participation C++
+ * 
+ * Why is heapInt address different than the other 3 memory addresses?
+ * All of the addresses point to different variables.
+ * 
+ * Why are the other 3 memory addresses output the same?
+ * The variables that they all point to are the same location, just defined to different names
+ * 
+ * What is the result of modifying the value of the ptrToStack variable?
+ * it changes the original stackint variable.
+ * 
+ * What is the result of modifying the value of the refToStack variable?
+ * it also changes the original stackint variable.
+ */
+
+INIT GRADE: 7.5/10
+
+Instructor Response:
+
+"Good work. Numbers 1 and 3 read incorrect to me. The reason heapInt has a different 
+memory address than the other 3 is because it is dynamically allocated with the new 
+keyword and is stored on the heap. The other 3 are automatically allocated, meaning 
+not allocated with the new keyword, so they are stored on the stack. Number 3 is 
+worded purposefully to test if students remember the "value" stored in a pointer, 
+which is a memory address. When we change the value of a pointer, you are changing 
+to a different memory address. This change in value would not affect stackInt at all, 
+instead ptrToStack would simply point to something else."

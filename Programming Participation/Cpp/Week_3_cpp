@@ -1,0 +1,11 @@
+Explain short circuiting:
+Short circuiting in programming if and if / else statements, is the concept of
+ the computer skipping over unnecessary evaluations. When using and / or operators,
+  it exists when the outcome of the evaluation is determined before it finishes 
+  evaluating. For example, when an and statement has two parts, and the first part 
+  evaluates as false, a short circuit occurs when the computer skips evaluating the 
+  second part, as no matter what it evaluates as, the first part of the and 
+  statement will make the entire evaluation false. It is helpful in saving time for 
+  the computer, since it would be fruitless to evaluate the second half after the 
+  first half was proven false.
+  

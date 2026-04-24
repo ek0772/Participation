@@ -1,0 +1,12 @@
+Unit 10: Describe how files are used
+
+"""
+Files have been used in every assignment we've completed thus far, as containers for the data that is written and read within vscode.
+They store functions, objects, classes, and all data types and sets that we create in python. Recently, however, we have been using
+files to transfer and store data between projects, and that is something I have struggled with. Getting files to properly import and
+be properly read by the compiler has been a challenge, and I understand that its supposed to "just work" if everything is done correctly,
+but clearly it isnt working for me, so there is either an issue with me as a porgrammer (I believe this is it, as I am a beginner), or it 
+is a problem with my system, which I highly doubt but will not knock as a possibility. Importing files is possible, but using the data contained within
+is a nother story for me. 
+
+"""
