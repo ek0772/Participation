@@ -1,0 +1,21 @@
+"Things don’t always go as planned, even in programs. Maybe
+a file doesn’t exist, someone enters the wrong type of input,
+or a program tries to divide by zero. In C++, we use
+exception handling to deal with these unexpected problems.
+• For this activity, explain the idea behind exception handling
+and why it’s important. Think of a real-life situation where
+something goes wrong, and you need a backup plan. For
+example, what happens if your GPS loses signal, or if a
+vending machine runs out of snacks after you’ve paid?
+• Try to relate that idea to how programs need to handle
+errors gracefully instead of crashing."
+
+Response:
+Exception handling is a way to develop program contingency plans. Certain input, for example, 
+will alter the output in ways that are unexpected, such as inputting an integer when prompted
+for a name string input. Exception handlign "gracefully" responds with an error message, 
+instead of breaking the entire program, so that any input previously haandled is not lost in 
+a program reset. To make a real world example, if I were in a conversation with someone, and they
+said soemthing that absolutely bewildered me, and I couldn't respond to it, I would respectfully explain
+that I do not understand, or that there was an issue with what they said, and give them the opportunity to
+ rephrase, rather than ending the conversation or trying to go back to the beginning.
