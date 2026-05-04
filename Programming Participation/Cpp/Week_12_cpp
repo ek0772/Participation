@@ -1,0 +1,24 @@
+C++ has built-in containers that help store and organize data. One
+of these is the map, which stores key-value pairs. This means each
+piece of data is linked to a unique key, kind of like how names are
+linked to phone numbers in your contacts.
+• For this activity, explain how a map works and give a real-life
+example of something that functions like a map. It could be a
+dictionary (word and definition), a student roster (ID and name), or
+a username and password list.
+• Focus on helping someone who has never coded before understand
+why this kind of container is useful.
+
+
+In C++, maps are used to store and retreive information in an organzied fashion. 
+Using key-value pairs, map items are accessed using keys, which each correspond to 
+their associated value in the map. Python has a similar concept, with dictionaries, 
+that allows you to retreive values using keys, but for an unfamiliar programmer, 
+maps can function like a vending machine. A key value D3 for example, could 
+correspond to doritos, while key value A2 could correspond to a snickers bar. All 
+Item codes and items are in the same vending machine, but they each correspond to 
+their own vending machine item. Using the key value (the vending machine code such 
+as A1, A2, A3, B1, B2, B3, C1...) you can access the snack item. A map is just a 
+digital version of this using c++ code that stores objects in a virtual space. It 
+can be used for storing all sort of information, like names and an associated value
+ such as bank information. 
